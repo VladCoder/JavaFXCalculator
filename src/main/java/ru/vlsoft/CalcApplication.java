@@ -31,5 +31,6 @@ public class CalcApplication extends Application {
     private void doSomething(){
         System.out.println("som console output");
         System.out.println("som console output");
+        System.out.println("som console output");
     }
 }
