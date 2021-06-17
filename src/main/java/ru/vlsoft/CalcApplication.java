@@ -27,4 +27,9 @@ public class CalcApplication extends Application {
         DBUtils.getConnection().close();
         Platform.exit();
     }
+
+    private void doSomething(){
+        System.out.println("som console output");
+        System.out.println("som console output");
+    }
 }
